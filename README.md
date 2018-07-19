@@ -81,7 +81,7 @@ The two attached distribution pictures attached show the terminal distributions 
 #### Figure 2: Lognormal Prior -> WMC results
 ![Alt text](http://zjonsson.github.com/WMC/Distribution_LognormalPrior.png "UniformPrior")
 #### Figure 3: Uniform Paths and the top 500 paths by weight
-![Alt text](http://zjonsson.github.com/WMC/500 paths uniform.png "UniformPrior")
+![Alt text](http://zjonsson.github.io/WMC/500%20paths%20uniform.png)
 
 
 
